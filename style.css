@@ -1,0 +1,31 @@
+body{
+            background-color:gray;
+        }
+        h1{
+            color: green;
+            font-family:verdana;
+            border-style:solid;
+            border-color: white;
+            border-width: 3px;
+            text-shadow:3px 3px 1px red, -3px -3px 1px rgb(76, 0, 255);
+        }
+    
+    
+        img{
+            width: 400px;
+            height: 300px;
+            box-shadow: 10px 10px 5px rgba(101, 10, 10, 0.5);
+        }
+        main{
+            color: red;
+            font-family:"lucida consoel", "courier new";
+            font-size:18px;
+            font-weight: bold;
+            font-style:italic;
+            border: 3px solid red;
+        }
+        script{
+            color: rgb(10, 99, 10);
+            border-style:double;
+            border-color:yellow;
+        }
